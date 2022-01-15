@@ -182,7 +182,7 @@ ____
 
 Вывод для каждой из операционных систем практически не отличается, для примера вот вывод в терминале Linux:
 
-```bash
+```
 Marketing dashboard refreshing ...
 Data upload success!
 Getting Snapchat API access token...
