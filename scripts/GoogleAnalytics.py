@@ -19,7 +19,7 @@ import os
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
 DISCOVERY_URL = ('https://analyticsreporting.googleapis.com/$discovery/rest')
 KEY_FILE_LOCATION = './gadatabot.json'
-SERVICE_ACCOUNT_EMAIL = 'gadatabot@ga-api-interaction.iam.gserviceaccount.com'
+SERVICE_ACCOUNT_EMAIL = '<YOUR CLIENT EMAIL>'
 VIEW_ID = '<YOUR VIEW ID>'
 
 def initialize_analyticsreporting():

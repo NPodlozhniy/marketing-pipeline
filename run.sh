@@ -10,7 +10,7 @@ do
 	exec python3 ./scripts/GoogleAnalytics.py &
 	# updating the dependent dashboard for marketing
 	wait
-	python3 ./scripts/Marketing.py && echo "Marketing dashboard have been refreshed!"
+	python3 ./scripts/Marketing.py
 	break
 done
 echo Check /root/journal.log for more details.

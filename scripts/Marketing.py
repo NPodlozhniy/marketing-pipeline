@@ -133,6 +133,7 @@ USERNAME = "<YOUR TABLEAU USERNAME>"
 PASSWORD = "<YOUR TABLEAU PASSWORD>"
 SITENAME = "<NAME OF YOUR TABLEAU SERVER SITE>"
 SERVER_URL = "<HOST OF YOUR TABLEAU SERVER SITE>"
+WORBOOK_NAME = "<YOUR WORKBOOK NAME>"
 
 tableau_auth = TSC.TableauAuth(USERNAME, PASSWORD, SITENAME)
 server = TSC.Server(SERVER_URL, use_server_version=True)
@@ -161,4 +162,4 @@ def refresh_workbook(name):
                 return (server.workbooks.get_by_id(target.id).updated_at +
                         datetime.timedelta(hours=3)).strftime(f"%m/%d/%Y %H:%M:%S")
 
-print("Tableau workbook Marketing refreshed at", refresh_workbook("Marketing"))
+print("Tableau workbook Marketing refreshed at", refresh_workbook(WORBOOK_NAME))
