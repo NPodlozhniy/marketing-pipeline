@@ -18,7 +18,7 @@
     - [Google](#Google)
         1. [Google Sheets](#Google-Sheets)
         2. [Google Analytics](#Google-Analytics)
-    -. [Tableau](#Tableau)
+    - [Tableau](#Tableau)
 3. [Как запустить проект](#Как-запустить-проект)
     - [Linux](#Linux)
     - [Windows](#Windows)
