@@ -1,0 +1,5 @@
+version: 1
+cron:
+ — name: "schedule"
+   url: "/schedule"
+   schedule: "0 3 * * * /root/refresher.sh >> /root/journal.log" # runs every day at 03:00 a.m. (UTC+0)
