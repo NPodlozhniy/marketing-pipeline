@@ -229,3 +229,6 @@ ____
 6. [Habr Docker Tutorial](https://habr.com/ru/post/310460/)
 7. [Habr TikTok Data Mining](https://habr.com/ru/company/ozontech/blog/562266/)
 8. [About Adveronix](https://vc.ru/marketing/237297-kak-besplatno-eksportirovat-dannye-iz-reklamnyh-kabinetov-i-delat-avtomaticheskie-dashbordy-v-google-data-studio)
+
+[:arrow_up:Оглавление](#Оглавление)
+___
