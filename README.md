@@ -1,24 +1,27 @@
 # Marketing Pipeline
 Проект позволяет автоматизировать процесс маркетинговой аналитики.
 Реализован сбор данных из рекламных кабинетов наиболее популярных в настоящий момент площадок:
+
 :white_check_mark: Facebook
+
 :white_check_mark: TikTok
+
 :white_check_mark: Snapchat
 
 ## Оглавление
 
 1. [Коротко о проекте](#Коротко-о-проекте)
 2. [Как получить все нужные реквизиты для работы](#Как-получить-все-нужные-реквизиты-для-работы)
-    1. [Facebook](#Facebook)
-    2. [TikTok](#TikTok)
-    3. [Snapchat](#Snapchat)
-    4. [Google](#Google)
+    - [Facebook](#Facebook)
+    - [TikTok](#TikTok)
+    - [Snapchat](#Snapchat)
+    - [Google](#Google)
         1. [Google Sheets](#Google-Sheets)
         2. [Google Analytics](#Google-Analytics)
-    5. [Tableau](#Tableau)
+    -. [Tableau](#Tableau)
 3. [Как запустить проект](#Как-запустить-проект)
-    1. [Linux](#Linux)
-    2. [Windows](#Windows)
+    - [Linux](#Linux)
+    - [Windows](#Windows)
 4. [Вывод программы](#Вывод-программы)
 5. [Визуализация работы](#Визуализация-работы)
 6. [Полезные ссылки](#Полезные-ссылки)
